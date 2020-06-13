@@ -1,0 +1,2 @@
+
+The Linux Documentation Project (LDP) is a volunteer project that makes and distributes free Linux documentation. LDP aims to create a system that is easily accessible and navigable. Anyone can get involved in the project by writing HOWTOs, which are essentially tutorials, provided the HOWTO doesn’t already exist and respects the project’s conventions.

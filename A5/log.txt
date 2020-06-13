@@ -1,0 +1,29 @@
+commit 4c9c21ebb78bd203de761a1a9fa255c18b7eb655
+Author: Raissa FARDON <rfardo@ds2.CS.McGill.CA>
+Date:   Wed Nov 22 10:39:06 2017 -0500
+
+    Loop added to terminate and print list when number entered is 0.
+
+commit 16ccf399e5663084685564d5d0b1d045699d28e1
+Author: Raissa FARDON <rfardo@ds2.CS.McGill.CA>
+Date:   Fri Nov 17 17:19:07 2017 -0500
+
+    "Reverse" function removed from list.c since linked list is already reversed.
+
+commit 1339e364d6e2e86e7559bd9ea32587f63a87d059
+Author: Raissa FARDON <rfardo@ds2.CS.McGill.CA>
+Date:   Wed Nov 15 10:43:16 2017 -0500
+
+    Function added to list.c to reverse linked list and called in main.c before printing list
+
+commit c7ebb8dc42d15706b8f76b8eb89f4c0c04e37bc6
+Author: Raissa FARDON <rfardo@ds2.CS.McGill.CA>
+Date:   Wed Nov 15 00:41:13 2017 -0500
+
+    Modified main.c so only integers are accepted as input
+
+commit 1ad8089fbd2bf1dc6daeb93bf9ec3c5e03e68cd5
+Author: Raissa FARDON <rfardo@ds2.CS.McGill.CA>
+Date:   Tue Nov 14 23:41:36 2017 -0500
+
+    First draft

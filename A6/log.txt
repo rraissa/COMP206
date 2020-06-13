@@ -1,0 +1,23 @@
+commit 208f2694ab960a571e39ca3554de998e9de9d18c
+Author: Raissa FARDON <rfardo@ds2.CS.McGill.CA>
+Date:   Wed Dec 6 16:53:30 2017 -0500
+
+    Error messages and NULL checks added.
+
+commit 58871a78d7fd775665349ca9346bc176dc635f12
+Author: Raissa FARDON <rfardo@ds2.CS.McGill.CA>
+Date:   Tue Dec 5 16:59:39 2017 -0500
+
+    Added partner's code
+
+commit d21c0b2c4118815bfd903ad88b743bc9794d8fb6
+Author: Raissa FARDON <rfardo@ds2.CS.McGill.CA>
+Date:   Fri Dec 1 15:58:46 2017 -0500
+
+    Algorithms for Producer.c and Consumer.c added
+
+commit 3a1e12c2d5460d377ce765afbebe7f3d55716e05
+Author: Raissa FARDON <rfardo@linux.CS.McGill.CA>
+Date:   Thu Nov 30 23:11:16 2017 -0500
+
+    My code(s) -- Use of fork(), setting up producer() and consumer() turns
